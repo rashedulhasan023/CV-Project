@@ -1,0 +1,146 @@
+*{      
+    margin:0;
+    padding:0;
+    
+}
+body{
+    background-color:#EEE;
+    font-family: 'Libre Baskerville', serif;
+    
+
+}
+.container{
+
+max-width:1000px;
+background-color: #1CB1EC;
+margin:0 auto;
+
+
+}
+header{
+
+
+}
+
+.profile{
+
+    width:100px;
+    height:120px;
+border: 3px solid white;
+border-radius: 50%;
+float:left;
+
+
+}
+.header-bio{
+
+
+float:left;
+padding:33px;
+
+}
+h1,h2,h3,h4,h5,h6{
+    color:#11999e;
+
+}
+.contract{
+    
+    float:right;
+    padding:30px;
+}
+.contract a{
+    text-decoration: none;
+    color:teal;
+    font-weight:bold;
+
+}
+.contract a:hover{
+   
+    text-decoration:underine;
+    color:tomato;
+}
+.div-clear{
+
+    clear:both;
+
+}
+hr{
+
+border:solid black 3px;
+width:100%;
+margin:20px auto;
+border-bottom:none;
+
+
+}
+
+/* Main Start here*/
+.content{
+
+
+}
+.div-left{
+
+width:30%;
+float:left;
+
+}
+.div-right{
+
+width:70%;
+float:right;
+
+}
+.common-hr{
+
+
+border:solid black 1px;
+border-bottom:none;
+width:100%;
+margin:20px auto;
+
+}
+.alignment{
+
+    padding:10px;
+}
+
+.edu-left-tem{
+
+float:left;
+width:45%;
+
+
+}
+.edu-right-tem{
+
+    float:right;
+    width:45%;
+    
+    
+    }
+    .edu1{
+
+        padding: 0px;
+    }
+
+.bottom-container{
+        
+     background-color:rgb(21, 177, 0):
+      align:center;
+      padding:10 px;
+
+
+    }
+
+
+    .bottom-container a{
+
+        text-decoration :none;
+        color:white;
+        margin:20 px;
+        font-weight:bold;
+    
+    
+        }
+       
